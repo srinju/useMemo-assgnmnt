@@ -1,2 +1,2 @@
-# useCallback-assgnmnt
-useCallback hook good implementation
+# useMemo-assgnmnt
+useMemo hook good implementation
